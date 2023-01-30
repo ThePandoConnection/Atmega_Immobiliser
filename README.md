@@ -1,4 +1,4 @@
-# Classic Immobiliser
+# Mega Immobiliser
 ## A Microcontroller based immobiliser for older cars that works with the presence of a smart phone.
 ![circuit](circuit.png)
 This is a rough diagram of the design of the immobiliser, it uses a relay to control power to the ECU.
