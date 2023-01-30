@@ -1,7 +1,8 @@
 # Mega Immobiliser
 ## A Microcontroller based immobiliser for older cars that works with the presence of a smart phone.
 ![circuit](circuit.png)
-This is a rough diagram of the design of the immobiliser, it uses a relay to control power to the ECU.
+<br/>
+This is a rough diagram of the design of the immobiliser, it uses a relay to control power to the ECU. <br/>
 I2C line features (all optional):
 - Bluetooth for enabling the immobiliser and smartphone control(switch used otherwise).
 - Screen for status of immobilier (might present secuirty flaw).
