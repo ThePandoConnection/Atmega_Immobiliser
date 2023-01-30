@@ -1,5 +1,5 @@
-# classic_car_immobiliser
-## A Microcontroller based immobiliser that works with the presence of a smart phone.
+# Classic Immobiliser
+## A Microcontroller based immobiliser for older cars that works with the presence of a smart phone.
 ![circuit](circuit.png)
 This is a rough diagram of the design of the immobiliser, it uses a relay to control power to the ECU.
 I2C line features (all optional):
