@@ -5,8 +5,7 @@
 This is a rough diagram of the design of the immobiliser, it uses a relay to control power to the ECU. <br/>
 I2C line features (all optional):
 - Bluetooth for enabling the immobiliser and smartphone control(switch used otherwise).
-- Screen for status of immobilier (might present secuirty flaw).
-- GPS to detect movement if ECU Relay is bypassed.
+- Screen for status of immobiliser (might present secuirty flaw).
 - Camera with facial recognition to help identify theif.
 - Motion sensor to detect tow away theft or to check if relay has been bypassed.
 - Sound sensor to check if engine running unexpectedly.
