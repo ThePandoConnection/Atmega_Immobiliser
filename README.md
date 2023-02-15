@@ -1,4 +1,4 @@
-# Mega Immobiliser
+# Atmega Immobiliser
 ## A Microcontroller based immobiliser for older cars that works with the presence of a smart phone.
 ![circuit](circuit.png)
 <br/>
